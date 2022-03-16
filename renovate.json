@@ -1,17 +1,5 @@
 {
   "extends": [
     "config:base"
-  ],
-  "labels": [
-    "dependencies",
-    "renovate"
-  ],
-  "lockFileMaintenance": {
-    "enabled": true
-  },
-  "semanticCommits": "enabled",
-  "prConcurrentLimit": 3,
-  "vulnerabilityAlerts": {
-    "enabled": true
-  }
+  ]
 }
